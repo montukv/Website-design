@@ -1,3 +1,4 @@
+
 function initNavbar() {
 
     var SCROLL_SPEED = 750;
